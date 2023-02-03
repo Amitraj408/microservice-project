@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;currecncy-conversion-service/src/main/resources/banner (7).txt&apos; to &apos;banner.txt&apos;" description="Rename resource &apos;banner (7).txt&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/banner (7).txt" name="banner.txt" stamp="1672074956127" updateReferences="true"/>
+</session>
